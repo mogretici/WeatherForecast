@@ -1,5 +1,5 @@
 import React from "react";
-import { Button, Icon } from "semantic-ui-react";
+import { Button, Divider, Icon } from "semantic-ui-react";
 
 // import {useTheme} from './context/ThemeContext'
 // import { Image } from 'semantic-ui-react'
@@ -24,7 +24,7 @@ function Header() {
           icon
           onClick={() =>
             window.open(
-              "https://github.com/mogretici/weather-forecast",
+              "https://github.com/mogretici/weather",
               "_blank",
               "noopener noreferrer"
             )
@@ -34,8 +34,9 @@ function Header() {
           Github Repository
         </Button>
       </div>
+      <Divider />
       <div>
-        <h1 align="center" style={{ color: "white", fontSize: 40 }}>
+        <h1 align="center" style={{ color: "white", fontSize: 35 }}>
           WEATHER FORECAST
         </h1>
       </div>

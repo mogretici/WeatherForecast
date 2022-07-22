@@ -75,7 +75,7 @@ function Weather() {
             color: "white",
             borderColor: "white",
             borderRadius: "10px",
-            width: "400px",
+            width: "300px",
           }}
           onChange={changeddl}
           value={cityData.text}

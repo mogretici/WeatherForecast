@@ -1,6 +1,6 @@
 {
   "name": "weather-forecast",
-  "homepage": "https://mogretici.github.io/weather-forecast/",
+  "homepage": "https://mogretici.github.io/weather/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
