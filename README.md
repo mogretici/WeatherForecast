@@ -1,2 +1,2 @@
 #WeatherForecast React project.
-Demo for: https://mogretici.me/weather/
+Demo for: https://mogretici.me/WeatherForecast/
